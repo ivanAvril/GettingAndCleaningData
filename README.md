@@ -22,7 +22,7 @@ You should create one R script called run_analysis.R that does the following.
 
 
 ## Instructions
-1. Download and unzip file of data sets from the link above
+1. Download and unzip file of data sets from the [link] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 2. Download and open the R script run_analysis.r
 3. Define the workspace using the setwd function
 4. Run the R script run_analysis.r
