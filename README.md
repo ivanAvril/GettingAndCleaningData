@@ -22,3 +22,6 @@ You should create one R script called run_analysis.R that does the following.
 
 
 ## Instructions
+1. Download and open the R script run_analysis.r.
+2. Define the workspace using the setwd function.
+3. Run the R script run_analysis.r
